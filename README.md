@@ -8,7 +8,7 @@ The motivation of the project was to create a portfolio that will showcase our w
 
 ## Deloyed Site Screenshot
 
-![image]( )
+![image](https://github.com/tcrear/regular-expression/blob/main/assets/Capture-17.JPG)
 
 
 ## Link to Deployed Site
