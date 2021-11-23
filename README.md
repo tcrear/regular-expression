@@ -8,10 +8,10 @@ The motivation of the project was to create a portfolio that will showcase our w
 
 ## Deloyed Site Screenshot
 
-![image](https://github.com/tcrear/my-portfolio/blob/main/assets/images/site-screenshot.JPG)
+![image]( )
 
 
 ## Link to Deployed Site
 
 [Link to Gist](https://gist.github.com/tcrear/bcb5275382477bf7cf6a92142881d663/)
-[Link to Repo](https://tcrear.github.io/my-portfolio/)
+[Link to Repo](https://github.com/tcrear/regular-expression.git)
